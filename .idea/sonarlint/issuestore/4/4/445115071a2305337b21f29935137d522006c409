@@ -1,0 +1,11 @@
+
+R
+java:S1481Y"0Remove this unused "holdOutData" local variable.(ö˜ú‘ıÿÿÿÿ8¢ºŸœ.
+s
+java:S1192."QDefine a constant instead of duplicating this literal "next_month_views" 4 times.(¸“¼„şÿÿÿÿ8×°Úœ.
+k
+java:S1192%"IDefine a constant instead of duplicating this literal "firstSub" 4 times.(¦»²Øşÿÿÿÿ8ğ±Ñœ.
+s
+java:S1192+"QDefine a constant instead of duplicating this literal "last_month_views" 4 times.(—†Õ’ıÿÿÿÿ8…éÖœ.
+l
+java:S1192("ODefine a constant instead of duplicating this literal "all_time_views" 4 times.(úÕ±»8…éÖœ.

@@ -1,0 +1,13 @@
+
+j
+java:S1192:"HDefine a constant instead of duplicating this literal "country" 3 times.(îÆ¾ùÿÿÿÿ8²óÛ³œ.
+}
+java:S1104"[Make countryGrouping a static final constant or non-public and provide accessors if needed.(†ã˜ûÿÿÿÿ8²óÛ³œ.
+W
+java:S1444"5Make this "public static countryGrouping" field final(†ã˜ûÿÿÿÿ8²óÛ³œ.
+o
+java:S1192?"MDefine a constant instead of duplicating this literal "countryIndex" 4 times.(îĞÍùÿÿÿÿ8²óÛ³œ.
+Z
+java:S3878"8Remove this array creation and simply pass the elements.(ä¯›Ëüÿÿÿÿ8²óÛ³œ.
+Z
+java:S3878"8Remove this array creation and simply pass the elements.(ˆ¼òûÿÿÿÿ8²óÛ³œ.
